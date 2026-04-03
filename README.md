@@ -4,9 +4,9 @@
 
 
 
--I'm a MERN Stack Developer and Generative AI enthusiast passionate about building modern, user-centric web applications.
--I actively learn by developing hands-on projects focused on Frontend development, UI/UX design, and AI-powered features.
--I'm always interested in collaborating on innovative web apps and AI-driven user experiences.
+- I'm a MERN Stack Developer and Generative AI enthusiast passionate about building modern, user-centric web applications.
+- I actively learn by developing hands-on projects focused on Frontend development, UI/UX design, and AI-powered features.
+- I'm always interested in collaborating on innovative web apps and AI-driven user experiences.
 - Digital footprint
 <br/> [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/srisivaranjanim17)
 ## I code in..  
